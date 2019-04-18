@@ -1,4 +1,4 @@
 # yechen.zsh-theme
 
 ### screen shot
-![alt text](screenshot.png "Logo Title Text 1")
+![screenshot](https://github.com/liyechen/yechen.zsh-theme/blob/master/screenshot.png)
